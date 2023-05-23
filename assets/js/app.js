@@ -172,7 +172,6 @@ let footer = $(`
 
 
 
-  
 
     <a class="social-button github" href="https://github.com/lackstreet" target="_blank">
     <!-- SVG code for Github icon -->
