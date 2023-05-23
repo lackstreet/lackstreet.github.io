@@ -158,7 +158,7 @@ let footer = $(`
     
 
     <div class="rounded-social-buttons tag">
- 
+    
 
     <a class="social-button linkedin" href="https://www.linkedin.com/in/abrefaemmanuel/" target="_blank" >
     <!-- svg code for linkedin icon -->
@@ -172,7 +172,6 @@ let footer = $(`
 
 
 
-  
 
     <a class="social-button github" href="https://github.com/lackstreet" target="_blank">
     <!-- SVG code for Github icon -->
